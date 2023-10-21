@@ -2,7 +2,7 @@
 This project aims to reconstruct your thoughts and dreams using EEG and machine learning for application ranging from medical to entertainment
 
 
-# Data and method used in this work is based on
+# Data and method
 * Kumar, P., Saini, R., Roy, P.P. et al. Envisioned speech recognition using EEG sensors. Pers Ubiquit Comput 22, 185–199 (2018).
 * Singh, Avinash Kumar, and Chin-Teng Lin. "EnK: Encoding time-information in convolution." arXiv preprint arXiv:2006.04198 (2020).
 * Stable Diffusion and ControlNet
